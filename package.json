@@ -1,0 +1,9 @@
+{
+  "name": "prodapp",
+  "version": "1.0.0",
+  "description": "Simple personal productivity app",
+  "main": "\\",
+  "repository": "git@github.com:pvamshi/prodapp.git",
+  "author": "Vamshi Krishna Pothuka <pvamshi@gmail.com>",
+  "license": "MIT"
+}
