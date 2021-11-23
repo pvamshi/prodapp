@@ -1,0 +1,9 @@
+type Task {
+  title: String
+  progress: Int
+  id: ID
+}
+
+type Query {
+  tasks: [Task]
+}
