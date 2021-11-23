@@ -4,6 +4,9 @@ type Task {
   id: ID
 }
 
+type Mutation {
+  tasks(title: String!): Task!
+}
 type Query {
   tasks: [Task]
 }
